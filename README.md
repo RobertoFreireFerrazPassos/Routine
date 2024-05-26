@@ -13,9 +13,11 @@
 
 ## Tuesday (C# and SQL) 
 
-#### Next C#:
+#### Next 
 
 - Review [c_sharp](https://github.com/RobertoFreireFerrazPassos/Interview-Full-Stack)
+
+#### Backlog C#:
 
 - Read https://lexgalante.medium.com/net-jogando-no-very-hard-concorr%C3%AAncia-paralelismo-parte-i-cd3c83063c8d
 - Entity framework
@@ -25,16 +27,13 @@
 - Read [records](https://learn.microsoft.com/pt-br/dotnet/csharp/fundamentals/types/records)
 - Read [functional-vs-imperative-programming](https://learn.microsoft.com/pt-br/dotnet/standard/linq/functional-vs-imperative-programming)
 - Implement records in [repo](https://github.com/RobertoFreireFerrazPassos/WeatherWebAPI)
+- [c_sharp](https://github.com/RobertoFreireFerrazPassos/Interview-Full-Stack)
 
-#### Next SQL:
+#### Backlog SQL:
 
 - Read Query Optimization Techniques pdf
 https://www.scalablepath.com/back-end/sql-vs-nosql
 - https://five.co/blog/when-to-use-sql-vs-nosql/#:~:text=To%20sum%20up%3A%20SQL%20databases,for%20dealing%20with%20unstructured%20data.
-
-#### Backlog:
-
-- [c_sharp](https://github.com/RobertoFreireFerrazPassos/Interview-Full-Stack)
 
 ## Wednesday (Dotnet) 
 
@@ -50,7 +49,6 @@ https://www.scalablepath.com/back-end/sql-vs-nosql
 - Authorize middleware
 - Add authorization in controller and endpoints
 - asymetric keys for communication between 2 backend apis
-- Book Alex Xu - System Design Interview An Insider’s Guide-Independently published (2020)
 
 ## Thursday (Design Systems)
 
@@ -64,6 +62,7 @@ https://www.scalablepath.com/back-end/sql-vs-nosql
 - Distribuited cache
 - Book Head First Design Patterns
 - Book SOFTWARE_ARCHITECTURE_WITH_C_12_AND_NET_8
+- Book Alex Xu - System Design Interview An Insider’s Guide-Independently published (2020)
 
 ## Friday (Relax)
 
