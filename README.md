@@ -28,6 +28,7 @@
 - Read [functional-vs-imperative-programming](https://learn.microsoft.com/pt-br/dotnet/standard/linq/functional-vs-imperative-programming)
 - Implement records in [repo](https://github.com/RobertoFreireFerrazPassos/WeatherWebAPI)
 - [c_sharp](https://github.com/RobertoFreireFerrazPassos/Interview-Full-Stack)
+- [Ef](https://www.linkedin.com/posts/milan-jovanovic_using-multiple-ef-dbcontexts-ugcPost-7196071025254580225-NH0w?utm_source=share&utm_medium=member_android)
 
 #### Backlog SQL:
 
