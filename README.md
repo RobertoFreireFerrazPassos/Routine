@@ -80,7 +80,7 @@ https://www.scalablepath.com/back-end/sql-vs-nosql
 - https://www.geeksforgeeks.org/
 - https://www.hackerrank.com/
 
-### PICO8
+### Sunday (PICO8)
 
 #### Next:
 
