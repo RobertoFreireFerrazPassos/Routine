@@ -56,12 +56,13 @@ https://www.scalablepath.com/back-end/sql-vs-nosql
 
 #### Next:
 
-- Architecture
+- [Document](https://github.com/ByteByteGoHq/system-design-101?tab=readme-ov-file)
 
 #### Backlog:
 
 - Api gateway
 - Distribuited cache
+- Architecture
 - Book Head First Design Patterns
 - Book SOFTWARE_ARCHITECTURE_WITH_C_12_AND_NET_8
 - Book Alex Xu - System Design Interview An Insider’s Guide-Independently published (2020)
