@@ -50,6 +50,7 @@ https://www.scalablepath.com/back-end/sql-vs-nosql
 - Add Jwt
 - Authorize middleware
 - Add authorization in controller and endpoints
+- [API secure](https://www.linkedin.com/search/results/content/?fromMember=%5B%22ACoAACZChCMBxciE5czRY5RadvjDN6pZubJosGc%22%5D&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACZChCMBxciE5czRY5RadvjDN6pZubJosGc&keywords=pavle%20davitkovi%C4%87&position=0&searchId=f6debc6e-3ad2-401d-b65b-162235238841&sid=Hho&sortBy=%22date_posted%22&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A7201560387329122305%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse))
 - asymetric keys for communication between 2 backend apis
 
 ## Thursday (Design Systems)
