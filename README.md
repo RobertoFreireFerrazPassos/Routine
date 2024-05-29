@@ -2,6 +2,20 @@
 
 ## Monday (Front-end) 
 
+## Tuesday (Dotnet, C# and SQL) 
+
+## Wednesday (Front-end) 
+
+## Thursday (Design Systems)
+
+## Friday (Relax)
+
+## Saturday (Algorithm)
+
+## Sunday (PICO8)
+
+### Front-end
+
 #### Next:
 
 - Create React project to apply each concept from [React](https://github.com/RobertoFreireFerrazPassos/Interview-Full-Stack)
@@ -12,7 +26,7 @@
 - [React questions repo](https://github.com/RobertoFreireFerrazPassos/Interview-Full-Stack)
 - [React questions](https://www.linkedin.com/posts/sai-ram-somanaboina_yesterday-i-sat-down-for-2-hours-and-looked-activity-7199742629541027840-_eHd/?utm_source=share&utm_medium=member_android)
 
-## Tuesday (C# and SQL) 
+### Dotnet, C# and SQL
 
 #### Next 
 
@@ -30,21 +44,6 @@
 - Implement records in [repo](https://github.com/RobertoFreireFerrazPassos/WeatherWebAPI)
 - [c_sharp](https://github.com/RobertoFreireFerrazPassos/Interview-Full-Stack)
 - [Ef](https://www.linkedin.com/posts/milan-jovanovic_using-multiple-ef-dbcontexts-ugcPost-7196071025254580225-NH0w?utm_source=share&utm_medium=member_android)
-
-#### Backlog SQL:
-
-- Read Query Optimization Techniques pdf
-https://www.scalablepath.com/back-end/sql-vs-nosql
-- https://five.co/blog/when-to-use-sql-vs-nosql/#:~:text=To%20sum%20up%3A%20SQL%20databases,for%20dealing%20with%20unstructured%20data.
-
-## Wednesday (Dotnet) 
-
-#### Next:
-
-- Review [oop](https://github.com/RobertoFreireFerrazPassos/Interview-Full-Stack)
-
-#### Backlog:
-
 - [dotnet](https://github.com/RobertoFreireFerrazPassos/Interview-Full-Stack)
 - Create project to implement secutity
 - Add Jwt
@@ -53,7 +52,13 @@ https://www.scalablepath.com/back-end/sql-vs-nosql
 - [API secure](https://www.linkedin.com/search/results/content/?fromMember=%5B%22ACoAACZChCMBxciE5czRY5RadvjDN6pZubJosGc%22%5D&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACZChCMBxciE5czRY5RadvjDN6pZubJosGc&keywords=pavle%20davitkovi%C4%87&position=0&searchId=f6debc6e-3ad2-401d-b65b-162235238841&sid=Hho&sortBy=%22date_posted%22&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A7201560387329122305%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse))
 - asymetric keys for communication between 2 backend apis
 
-## Thursday (Design Systems)
+#### Backlog SQL:
+
+- Read Query Optimization Techniques pdf
+https://www.scalablepath.com/back-end/sql-vs-nosql
+- https://five.co/blog/when-to-use-sql-vs-nosql/#:~:text=To%20sum%20up%3A%20SQL%20databases,for%20dealing%20with%20unstructured%20data.
+
+### Design Systems
 
 #### Next:
 
@@ -68,9 +73,7 @@ https://www.scalablepath.com/back-end/sql-vs-nosql
 - Book SOFTWARE_ARCHITECTURE_WITH_C_12_AND_NET_8
 - Book Alex Xu - System Design Interview An Insider’s Guide-Independently published (2020)
 
-## Friday (Relax)
-
-## Saturday (Algorithm)
+### Algorithm
 
 #### Next:
 
@@ -83,7 +86,7 @@ https://www.scalablepath.com/back-end/sql-vs-nosql
 - https://www.geeksforgeeks.org/
 - https://www.hackerrank.com/
 
-## Sunday (PICO8)
+### PICO8
 
 #### Next:
 
