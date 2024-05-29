@@ -1,18 +1,12 @@
 # Routine
 
-## Monday (Front-end) 
-
-## Tuesday (Dotnet, C# and SQL) 
-
-## Wednesday (Front-end) 
-
-## Thursday (Design Systems)
-
-## Friday (Relax)
-
-## Saturday (Algorithm)
-
-## Sunday (PICO8)
+- Monday (Front-end) 
+- Tuesday (Dotnet, C# and SQL) 
+- Wednesday (Front-end) 
+- Thursday (Design Systems)
+- Friday (Relax)
+- Saturday (Algorithm)
+- Sunday (PICO8)
 
 ### Front-end
 
