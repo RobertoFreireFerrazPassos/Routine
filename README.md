@@ -79,6 +79,7 @@ https://www.scalablepath.com/back-end/sql-vs-nosql
 - Codility. https://github.com/Mickey0521/Codility
 - https://www.geeksforgeeks.org/
 - https://www.hackerrank.com/
+- https://www.techinterviewhandbook.org/coding-interview-study-plan/
 
 ### PICO8
 
