@@ -74,7 +74,7 @@ https://www.scalablepath.com/back-end/sql-vs-nosql
 
 #### Next:
 
-- [Study this]([https://stackoverflow.com/questions/68093087/how-to-reverse-an-integer](https://www.techinterviewhandbook.org/coding-interview-study-plan/)). Add to [algorithm git repo](https://github.com/RobertoFreireFerrazPassos/Algorithms_Data_Structures)
+- [Study this](https://www.techinterviewhandbook.org/coding-interview-study-plan/). Add to [algorithm git repo](https://github.com/RobertoFreireFerrazPassos/Algorithms_Data_Structures)
 
 #### Backlog:
 
