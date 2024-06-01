@@ -66,6 +66,9 @@ https://www.scalablepath.com/back-end/sql-vs-nosql
 - Book Head First Design Patterns
 - Book SOFTWARE_ARCHITECTURE_WITH_C_12_AND_NET_8
 - Book Alex Xu - System Design Interview An Insider’s Guide-Independently published (2020)
+- [microservices](https://www.linkedin.com/posts/rajatgajbhiye_microservices-activity-7202523506893324288-ALdR/?utm_source=share&utm_medium=member_android)
+- [microservices udemy](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/)
+- [distributed tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
 
 ### Algorithm
 
