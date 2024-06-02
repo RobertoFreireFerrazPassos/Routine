@@ -69,6 +69,8 @@ https://www.scalablepath.com/back-end/sql-vs-nosql
 - [microservices](https://www.linkedin.com/posts/rajatgajbhiye_microservices-activity-7202523506893324288-ALdR/?utm_source=share&utm_medium=member_android)
 - [microservices udemy](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/)
 - [distributed tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
+- [system Design concepts](https://www.linkedin.com/posts/rajatgajbhiye_system-design-was-hard-learning-these-concept-activity-7202632487435427840-q8Si/)
+- [system Design concepts 2](https://www.linkedin.com/posts/rajatgajbhiye_dsa-on-sunday-top-10-leetcode-articles-activity-7200399720693829633-wPio)
 
 ### Algorithm
 
