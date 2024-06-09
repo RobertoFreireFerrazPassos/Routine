@@ -77,6 +77,7 @@ https://www.scalablepath.com/back-end/sql-vs-nosql
 - [System Design](https://www.linkedin.com/posts/saurabh-dashora_if-you-want-to-get-better-at-system-design-activity-7202194920495828992-a7SA/)
 - [In memory cache](https://www.linkedin.com/posts/sa-es-ir_aspnetcore-dotnet-caching-activity-7205196004655067136-Z8yf/)
 - [Desing Patterns](https://www.linkedin.com/posts/alexandre-zajac_design-patterns-cheatsheet-ugcPost-7203111767571443712-ThFe/)
+- [UML](UML Class Diagram Explained with Examples)
 
 ### Algorithm
 
