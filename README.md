@@ -13,6 +13,8 @@
 #### Next:
 
 - Create React project to apply each concept from [React](https://github.com/RobertoFreireFerrazPassos/Interview-Full-Stack)
+- [JS](https://www.linkedin.com/posts/rajatgajbhiye_javascript-javascriptinterview-jsinterviewquestions-activity-7205531586543390720-g-Sh/)
+- Angular
 
 #### Backlog:
 
@@ -42,12 +44,14 @@
 - Create project to implement secutity
 -  Jwt, asymetric keys for communication between 2 backend apis, Client e Back cors, oauth and azure, Authorize middleware, Add authorization in controller and endpoints
 - [API secure](https://www.linkedin.com/search/results/content/?fromMember=%5B%22ACoAACZChCMBxciE5czRY5RadvjDN6pZubJosGc%22%5D&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACZChCMBxciE5czRY5RadvjDN6pZubJosGc&keywords=pavle%20davitkovi%C4%87&position=0&searchId=f6debc6e-3ad2-401d-b65b-162235238841&sid=Hho&sortBy=%22date_posted%22&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A7201560387329122305%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse))
+- [build,clean and rebuild](https://www.linkedin.com/posts/poorna-soysa_csharp-dotnet-programmingtips-activity-7204384039259054080-8SgB/)
 
 #### Backlog SQL:
 
 - Read Query Optimization Techniques pdf
 https://www.scalablepath.com/back-end/sql-vs-nosql
 - https://five.co/blog/when-to-use-sql-vs-nosql/#:~:text=To%20sum%20up%3A%20SQL%20databases,for%20dealing%20with%20unstructured%20data.
+- [Query Optimization](https://www.linkedin.com/posts/curiouslearner_softwaredevelopment-databases-sql-activity-7205018257102168064-cCHS/)
 
 ### Design Systems
 
@@ -63,12 +67,16 @@ https://www.scalablepath.com/back-end/sql-vs-nosql
 - Book Head First Design Patterns
 - Book SOFTWARE_ARCHITECTURE_WITH_C_12_AND_NET_8
 - Book Alex Xu - System Design Interview An Insider’s Guide-Independently published (2020)
-- [polly](https://www.linkedin.com/posts/thisisnabi_resilience-in-net-activity-7203085467825639425-9nJR/?utm_source=share&utm_medium=member_android)
-- [microservices](https://www.linkedin.com/posts/rajatgajbhiye_microservices-activity-7202523506893324288-ALdR/?utm_source=share&utm_medium=member_android)
-- [microservices udemy](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/)
-- [distributed tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
-- [system Design concepts](https://www.linkedin.com/posts/rajatgajbhiye_system-design-was-hard-learning-these-concept-activity-7202632487435427840-q8Si/)
-- [system Design concepts 2](https://www.linkedin.com/posts/rajatgajbhiye_dsa-on-sunday-top-10-leetcode-articles-activity-7200399720693829633-wPio)
+- [Polly](https://www.linkedin.com/posts/thisisnabi_resilience-in-net-activity-7203085467825639425-9nJR/?utm_source=share&utm_medium=member_android)
+- [Microservices](https://www.linkedin.com/posts/rajatgajbhiye_microservices-activity-7202523506893324288-ALdR/?utm_source=share&utm_medium=member_android)
+- [Microservices 2](https://www.linkedin.com/posts/saurabh-dashora_you-should-think-35-times-before-moving-activity-7201470819888238593-VxKD/)
+- [Microservices udemy](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/)
+- [Distributed tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
+- [System Design concepts](https://www.linkedin.com/posts/rajatgajbhiye_system-design-was-hard-learning-these-concept-activity-7202632487435427840-q8Si/)
+- [System Design concepts 2](https://www.linkedin.com/posts/rajatgajbhiye_dsa-on-sunday-top-10-leetcode-articles-activity-7200399720693829633-wPio)
+- [System Design](https://www.linkedin.com/posts/saurabh-dashora_if-you-want-to-get-better-at-system-design-activity-7202194920495828992-a7SA/)
+- [In memory cache](https://www.linkedin.com/posts/sa-es-ir_aspnetcore-dotnet-caching-activity-7205196004655067136-Z8yf/)
+- [Desing Patterns](https://www.linkedin.com/posts/alexandre-zajac_design-patterns-cheatsheet-ugcPost-7203111767571443712-ThFe/)
 
 ### Algorithm
 
