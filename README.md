@@ -95,6 +95,8 @@ https://www.scalablepath.com/back-end/sql-vs-nosql
 - https://www.geeksforgeeks.org/
 - https://www.hackerrank.com/
 - https://www.techinterviewhandbook.org/coding-interview-study-plan/
+- [Data structure](https://www.linkedin.com/posts/raul-junco_ive-learned-the-hard-way-the-data-structure-activity-7206267689114189825-cVYz/)
+- [Summary](https://www.linkedin.com/posts/rajatgajbhiye_array-dsa-datastructures-activity-7206256422509096961-7OWc/)
 
 ### PICO8
 
