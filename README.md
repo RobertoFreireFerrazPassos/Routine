@@ -6,7 +6,7 @@
 - Thursday (Design Systems)
 - Friday (Relax)
 - Saturday (Algorithm)
-- Sunday (PICO8)
+- Sunday (Projects or PICO8)
 
 ### Front-end
 
@@ -116,6 +116,6 @@ https://www.scalablepath.com/back-end/sql-vs-nosql
 
 #### Backlog:
 
-- Implement e-commerce project
+- Create new repo for e-commerce project using first and then refactor to microservices [moving to microservices](https://www.linkedin.com/posts/saurabh-dashora_you-should-think-35-times-before-moving-activity-7201470819888238593-VxKD/). Implement this architecture [udemy course](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=ST21MT61124)
 
 
