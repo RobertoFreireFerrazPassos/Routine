@@ -2,7 +2,7 @@
 
 - Monday (Front-end) 
 - Tuesday (Dotnet, C# and SQL) 
-- Wednesday (PICO8) 
+- Wednesday (Front-end) 
 - Thursday (Design Systems)
 - Friday (Relax)
 - Saturday (Algorithm)
