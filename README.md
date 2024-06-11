@@ -107,3 +107,15 @@ https://www.scalablepath.com/back-end/sql-vs-nosql
 #### Backlog:
 
 - [Pico 8 tutorial](https://github.com/RobertoFreireFerrazPassos/pico8)
+
+### Projects
+
+#### Next:
+
+- Implement TODO of [WeatherWebAPI](https://github.com/RobertoFreireFerrazPassos/WeatherWebAPI)
+
+#### Backlog:
+
+- Implement e-commerce project
+
+
